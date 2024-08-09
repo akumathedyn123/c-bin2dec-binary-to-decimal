@@ -3,6 +3,7 @@
 This project implements a C program that converts binary numbers to their decimal equivalents. It efficiently handles both positive and negative binary numbers.
 
 **Author:** Md. N e H Jack (akumathedyn123)
+
 **License:** MIT
 
 **Editable (Optional):**

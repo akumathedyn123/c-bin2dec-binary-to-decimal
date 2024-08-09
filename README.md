@@ -55,7 +55,7 @@ This project implements a C program that converts binary numbers to their decima
 
 1. **Clone the Repository (if applicable):**
    ```bash
-   git clone https://your_repository_url.git
+   git clone https://github.com/akumathedyn123/c-bin2dec-binary-to-decimal.git
    cd Binary-to-Decimal-Converter
    ```
 

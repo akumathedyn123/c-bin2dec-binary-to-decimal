@@ -5,8 +5,6 @@ This project implements a C program that converts binary numbers to their decima
 **Author:** Md. N e H Jack (akumathedyn123)
 **License:** MIT
 
-**Project Name:** Binary-to-Decimal-Converter
-
 **Editable (Optional):**
 
 * Feel free to modify the maximum binary string length (`#define MAX_BIN_STR_LEN 32`) within the `main.c` file if needed.

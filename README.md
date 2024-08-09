@@ -130,6 +130,4 @@ If you'd like to contribute, here's what you can do:
 * Push your changes to your fork.
 * Submit a pull request to the main repository.
 
-We appreciate your contributions to making this project better!
-
-**Note:** For larger contributions or significant code changes, it's recommended to open an issue to discuss the proposed changes before starting work. Cheers guys.
+We appreciate your contributions to making this project better! Cheers guys.
